@@ -50,7 +50,7 @@ const Home = () => {
                     </div>
 
                 </div>
-                <img src="src/assets/Vector.png" className="z-0 absolute bottom-0" />
+                <img src="/Vector.png" className="z-0 absolute bottom-0" />
             </div>
 
         </section>
